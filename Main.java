@@ -32,7 +32,7 @@ public class Main {
     String message3 = greeting.accounting("ご来店ありがとうございます、またのご来店をお待ちしております。");
 
     Printer printer3 = new Printer();
-    printer.printMessage(message3);
+    printer3.printMessage(message3);
 
   }
 
